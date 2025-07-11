@@ -21,12 +21,12 @@ out/
 /build/dist/
 production/
 
-*.ipr
-*.class
-*.xml
-*.html
-*.gif
-*.pyc
+#*.ipr
+#*.class
+#*.xml
+#*.html
+#*.gif
+#*.pyc
 
 clients/GVGAI-JavaClient/src/sampleRandom.zip
 
