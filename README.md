@@ -1,6 +1,6 @@
 # DGIIM TSI Practice 1
 
-Practice 1 of the Técnicas de los Sistemas Inteligentes course in the Double Degree in Computer Engineering and Mathematics at the University of Granada. This project is based on the GVGAI environment.
+Practice 1 of the Técnicas de los Sistemas Inteligentes course in the Double Degree in Computer Engineering and Mathematics at the University of Granada (2024-2025 academic year). This project is based on the GVGAI environment.
 
 The objective of this practice is to guide the agent to the goal using the Dijkstra, A*, RTA* and LRTA* algorithms. In order to pass through the blue walls, the agent needs to collect a blue cape, and a red cape for the red walls.
 
